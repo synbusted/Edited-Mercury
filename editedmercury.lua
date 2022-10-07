@@ -31,6 +31,14 @@ local HTTPService = game:GetService("HttpService")
 
 local Library = {
 	Themes = {
+		Legacy = {
+			Main = Color3.fromHSV(262/360, 60/255, 34/255),
+			Secondary = Color3.fromHSV(240/360, 40/255, 63/255),
+			Tertiary = Color3.fromHSV(260/360, 60/255, 148/255),
+
+			StrongText = Color3.fromHSV(0, 0, 1),		
+			WeakText = Color3.fromHSV(0, 0, 172/255)
+		},
 		PornHub = {
                         Main = Color3.fromRGB(6, 6, 8),
 			Secondary = Color3.fromRGB(10, 10, 12),
