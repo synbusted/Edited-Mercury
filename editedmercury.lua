@@ -39,6 +39,7 @@ local Library = {
 			StrongText = Color3.fromHSV(0, 0, 1),		
 			WeakText = Color3.fromHSV(0, 0, 172/255)
 		},
+		
 		PornHub = {
                         Main = Color3.fromRGB(6, 6, 8),
 			Secondary = Color3.fromRGB(10, 10, 12),
@@ -46,6 +47,7 @@ local Library = {
 
 			StrongText = Color3.fromHSV(0, 0, 1),		
 			WeakText = Color3.fromHSV(0, 0, 172/255)
+                },
 
 		VexusTheme = {
 			Main = Color3.fromRGB(12, 12, 14),
