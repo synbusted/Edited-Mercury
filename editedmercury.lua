@@ -39,7 +39,7 @@ local Library = {
 			StrongText = Color3.fromHSV(0, 0, 1),		
 			WeakText = Color3.fromHSV(0, 0, 172/255)
                 },
-		VexusTheme = {
+		Vexus = {
 			Main = Color3.fromRGB(12, 12, 14),
 			Secondary = Color3.fromRGB(20, 20, 22),
 			Tertiary = Color3.fromRGB(66, 88, 225),
@@ -55,6 +55,14 @@ local Library = {
 			StrongText = Color3.fromHSV(0, 0, 1),		
 			WeakText = Color3.fromHSV(0, 0, 172/255)
 		},
+		Discord = {
+			Main = Color3.fromRGB(95, 103, 238),
+			Secondary = Color3.fromRGB(54, 57, 63),
+			Tertiary = Color3.fromRGB(60, 63, 69),
+
+			StrongText = Color3.fromHSV(0, 0, 1),		
+			WeakText = Color3.fromHSV(0, 0, 172/255)
+                }
 	},
 	ColorPickerStyles = {
 		Legacy = 0,
