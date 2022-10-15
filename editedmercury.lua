@@ -56,9 +56,9 @@ local Library = {
 			WeakText = Color3.fromHSV(0, 0, 172/255)
 		},
 		Discord = {
-			Main = Color3.fromRGB(95, 103, 238),
+			Main = Color3.fromRGB(60, 63, 69),
 			Secondary = Color3.fromRGB(54, 57, 63),
-			Tertiary = Color3.fromRGB(60, 63, 69),
+			Tertiary = Color3.fromRGB(95, 103, 238),
 
 			StrongText = Color3.fromHSV(0, 0, 1),		
 			WeakText = Color3.fromHSV(0, 0, 172/255)
